@@ -31,3 +31,8 @@ Bearish Prediction:
 The following plot shows the absolute coefficient size of a tuned model, investigating market taker effects on the price:
 
 ![Market Taker Plot](https://raw.githubusercontent.com/alexlukekoval/quantitative_trading/main/images/binance_market_taker_effects.png)
+
+## Coming soon
+Data cleaning. The process of identifying errors and removing all related rows. \
+Preprocessing. Feature engineering and advanced labeling. \
+Backtesting. Out of sample backtesting and creating metrics.
